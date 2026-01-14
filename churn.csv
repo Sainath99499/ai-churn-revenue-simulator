@@ -1,0 +1,9 @@
+customerID,tenure,MonthlyCharges,Contract,PaymentMethod,TechSupport,Churn
+1001,1,70,Month-to-month,Electronic check,No,Yes
+1002,24,55,One year,Credit card,Yes,No
+1003,12,90,Month-to-month,Electronic check,No,Yes
+1004,60,40,Two year,Bank transfer,Yes,No
+1005,6,80,Month-to-month,Electronic check,No,Yes
+1006,36,65,One year,Credit card,Yes,No
+1007,2,95,Month-to-month,Electronic check,No,Yes
+1008,48,45,Two year,Bank transfer,Yes,No
